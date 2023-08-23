@@ -1,7 +1,7 @@
 //calculator.rs
-extern crate winapi;
-use std::ptr::null_mut as NULL;
-use winapi::um::winuser;
+//extern crate winapi;
+//use std::ptr::null_mut as NULL;
+//use winapi::um::winuser;
 
 fn main(){
     //testcases here for now
